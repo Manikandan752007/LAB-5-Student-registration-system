@@ -1,6 +1,6 @@
 # LAB-5-Student-registration-system
 # NAME: Manikandan M
-# REG: 2122224040184
+# REG: 212224040184
 # DATE:
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
